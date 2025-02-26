@@ -5,7 +5,7 @@ Code of A Robust rPPG Federated Learning Framework Against Motion Interference D
 python=3.6, pytorch-gpu=1.10.2,opencv-python=4.40,wandb=0.13.1,tqdm=4.46
 
 ## Architecture of FedSD
-<img src='./Architecture.png'  width=648>
+<img src='./Architecture.svg'  width=648>
 
 ## To start: 
 ```bash
